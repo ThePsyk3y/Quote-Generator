@@ -8,4 +8,4 @@ Create a web app that generates random quotes fetched from a API.
 - Fork the repository
 - Create a new branch (with your name).
 - Upload files in the new branch.
-- Create a pull request.
+- Create a pull request (to any branch other than 'main').
